@@ -1,0 +1,17 @@
+# Arquivos de log
+logs
+*.log
+
+# Diretório node_modules
+node_modules
+
+# Arquivos de build
+build
+dist
+
+# Arquivos de ambiente local
+.env
+
+# Arquivos de dependência de desenvolvimento
+*.lock
+yarn-error.log
